@@ -26,7 +26,6 @@
 /// OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 /// THE SOFTWARE.
 
-// A comment
 class Converter {
   func convert(_ number: Int) -> String {
     return String(repeating: "I", count: number)
